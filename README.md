@@ -9,13 +9,13 @@ I'm currently in the final year of my B.Tech, Computer Science and Engineering.
 <div> 
   <h3>🔭 I’m currently working on ...</h3>
   <h4>1.) An Arduino project for noise cancellation:</h4>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A few months back, as summer started, I began using an air cooler to maintain room temperature. However, it produced very loud noises. So, I got the idea of capturing the noise from the microphone and inverting the digital signal. This way, it could produce an opposite sound wave. Thus, the original noise sound wave and the inverted noise sound wave would cancel each other out, creating a quieter environment.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A months back, as summer started, I began using an air cooler to maintain room temperature. However, it produced very loud noise. So, I got the idea of capturing the noise from a microphone and inverting the digital signal. This way, it could produce an opposite sound wave. Thus, the original noise sound wave and the inverted noise sound wave would cancel each other out, creating a quieter environment.</p>
 
 <h4>2.) News and blog share website:</h4>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A website where people can share their interests and the website will suggest related articles based on their interests </p
 </div>
 <hr></hr>
-### :hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
