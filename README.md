@@ -11,7 +11,7 @@ I'm currently in the final year of my B.Tech, Computer Science and Engineering.
   <h4>1.) An Arduino project for noise cancellation:</h4>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A months back, as summer started, I began using an air cooler to maintain room temperature. However, it produced very loud noise. So, I got the idea of capturing the noise from a microphone and inverting the digital signal. This way, it could produce an opposite sound wave. Thus, the original noise sound wave and the inverted noise sound wave would cancel each other out, creating a quieter environment.</p>
 
-<h4>2.) News and blog share website:</h4>
+<h4>2.) News and blog sharing website:</h4>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A website where people can share their interests and the website will suggest related articles based on their interests </p
 </div>
 <hr></hr>
